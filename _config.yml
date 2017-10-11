@@ -11,7 +11,7 @@ deep_background: /images/background/background-deepcube-2.jpg
 
 baseurl: ""
 # the subpath of your site, e.g. /blog/
-url: "https://http://lzhu.me/homepage/"
+url: "http://lzhu.me/homepage/"
 # the base hostname & protocol for your sit
 
 # Paginationœ
